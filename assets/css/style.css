@@ -1132,7 +1132,12 @@ section {
   transform: scale(1.1);
 }
 .team .member .member-info {
+  margin-top: 35px;
   padding-left: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-contact: center;
+  align-items: center;
 }
 .team .member h4 {
   font-weight: 700;
